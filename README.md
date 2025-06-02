@@ -54,7 +54,7 @@ How to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/Ryotakohama/Churn-Prediction.git
+git clone https://github.com/Ryotakohama/Customer-Churn-Prediction.git
 
 Install dependencies:
 
@@ -63,6 +63,8 @@ pip install -r requirements.txt
 Run the Jupyter Notebook:
 
 jupyter notebook
+
+Power BI
 
 Open the relevant .ipynb file and execute the cells step by step.
 
